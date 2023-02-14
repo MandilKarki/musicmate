@@ -28,3 +28,84 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story: music_production
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: music_production_techniques
+  - action: action_music_production
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+- story: music_software_and_hardware_recommendations
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: music_software_and_hardware_recommendations
+  - action: action_music_software_and_hardware_recommendations
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+- story: music_sampling_and_copyright_laws
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: music_sampling_and_copyright_laws
+  - action: action_music_sampling_and_copyright_laws
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+- story: sound_design
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: sound_design
+  - action: action_sound_design
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+- story: recording_and_mixing_techniques
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: recording_and_mixing_techniques
+  - action: action_recording_and_mixing_techniques
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+- story: music_production_resources
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: music_production_resources
+  - action: action_music_production_resources
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+- story: music_marketing_and_promotion
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: music_marketing_and_promotion
+  - action: action_music_marketing_and_promotion
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+- story: music_collaboration_and_networking
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: music_collaboration_and_networking
+  - action: action_music_collaboration_and_networking
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+

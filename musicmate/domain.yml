@@ -8,6 +8,14 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - music_production_techniques
+  - music_software_and_hardware_recommendations
+  - music_sampling_and_copyright_laws
+  - sound_design
+  - recording_and_mixing_techniques
+  - music_production_resources
+  - music_marketing_and_promotion
+  - music_collaboration_and_networking
 
 responses:
   utter_greet:
@@ -28,6 +36,17 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+actions:
+  - action_music_production
+  - action_ask_for_further_assistance
+  - action_music_software_and_hardware_recommendations
+  - action_music_sampling_and_copyright_laws
+  - action_sound_design
+  - action_recording_and_mixing_techniques
+  - action_music_production_resources
+  - action_music_marketing_and_promotion
+  - action_music_collaboration_and_networking
 
 session_config:
   session_expiration_time: 60

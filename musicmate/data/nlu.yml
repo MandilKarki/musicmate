@@ -89,3 +89,108 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: music_production_techniques
+  examples: |
+    - What are some tips for mixing and mastering music?
+    - Can you recommend some resources for learning music production?
+    - I want to improve my skills in sound design.
+    - How can I make my music sound more unique?
+    - Can you tell me more about music production techniques for different genres?
+    - I'm curious about different recording techniques.
+    - Can you explain some of the latest software and hardware used in music production?
+    - I'd like to know more about music production workflows.
+    - Can you give me some tips for music production collaboration?
+    - I want to know more about music production for live performances.
+
+- intent: music_software_and_hardware_recommendations
+  examples: |
+    - What's the best DAW for music production?
+    - Can you recommend some audio interfaces for music production?
+    - I want to upgrade my home studio setup.
+    - Can you suggest some budget-friendly options for music production software and hardware?
+    - What are the best synthesizers for music production?
+    - Can you give me some advice for choosing a music production laptop?
+    - I'm looking for the best music production software for beginners.
+    - Can you suggest some affordable music production hardware options?
+    - What are the top plugins for music production?
+    - I need help choosing a digital audio workstation.
+
+- intent: music_sampling_and_copyright_laws
+  examples: |
+    - How do I clear a sample for use in my music?
+    - Can you explain the differences between licensing and clearing samples?
+    - What are the copyright laws for music production?
+    - Can you help me understand the laws for using samples in different countries?
+    - I want to make sure I'm not infringing on anyone's copyrights in my music production.
+    - Can you recommend some resources for learning about music sampling and copyright laws?
+    - I need to know how to legally use samples in my music.
+    - Can you help me understand the process for licensing samples?
+    - I'm concerned about the legality of using samples in my music.
+    - What are the consequences of using unlicensed samples in music production?
+
+- intent: sound_design
+  examples: |
+    - How can I create better basslines for my music?
+    - Can you recommend some resources for learning sound design?
+    - I want to know more about using sound design in music production.
+    - Can you give me some tips for creating unique sounds for my music?
+    - What are the best software and hardware options for sound design?
+    - I'm looking for ways to improve my sound design skills.
+    - Can you suggest some sound design techniques for electronic music?
+    - I need help with creating realistic sound effects for my music.
+    - What are the latest trends in sound design for music production?
+    - I'm interested in learning more about sound design for film and game scores.
+
+- intent: recording_and_mixing_techniques
+  examples: |
+    - What are some tips for mixing vocals in music production?
+    - Can you recommend some techniques for recording live instruments?
+    - I want to know more about mixing and mastering techniques for different genres of music.
+    - Can you explain the difference between mixing and mastering in music production?
+    - I'm struggling with getting a balanced mix in my music.
+    - Can you suggest some techniques for reducing noise in recordings?
+    - I need help with getting my drums to sound more punchy in my mix.
+    - What are the best practices for recording and mixing live performances?
+    - Can you give me some tips for getting a professional sounding mix in my music production?
+    - I'm curious about different approaches to mixing and mastering for different music styles.
+
+- intent: music_production_resources
+  examples: |
+    - Can you recommend some websites or podcasts for learning about music production?
+    - I'm looking for online forums and communities for music producers.
+    - What are some good books or courses for music production?
+    - Can you suggest some YouTube channels for music production tutorials?
+    - I need help finding online resources for learning music production software and hardware.
+    - What are some must-follow accounts on social media for music producers?
+    - Can you recommend some online workshops or events for music production?
+    - I want to know more about online music production collaborations.
+    - Can you suggest some music production challenges or competitions?
+    - I'm looking for online resources for finding inspiration for my music production.
+
+- intent: music_marketing_and_promotion
+  examples: |
+    - Can you give me some advice for promoting my music online?
+    - I need help with marketing my music to the right audience.
+    - What are the best ways to distribute my music?
+    - Can you suggest some social media strategies for promoting my music?
+    - I want to know more about monetizing my music through streaming services.
+    - Can you help me understand how to use influencer marketing for my music?
+    - What are some tips for getting my music featured on playlists?
+    - I need to know more about promoting my music through live performances and events.
+    - Can you suggest some ways to increase the reach of my music online?
+    - I'm curious about the best practices for using email marketing for my music.
+
+- intent: music_collaboration_and_networking
+  examples: |
+    - How can I find other music producers to collaborate with?
+    - Can you suggest some online communities for finding music collaborators?
+    - I want to know more about music collaboration workflows.
+    - What are the best practices for music collaboration over the internet?
+    - Can you recommend some ways to network with other music producers?
+    - I need help with finding musicians to work with on my music production.
+    - What are some tips for finding the right collaborators for your music?
+    - Can you suggest some online resources for finding musicians for hire?
+    - I'm looking for ways to increase my visibility as a music producer.
+    - Can you give me some advice for networking with music industry professionals?
+
