@@ -12,3 +12,8 @@ intents:
 8.     Music Promotion and Marketing Tips
 9.     Music Education and Training Resources
 10.    Music Industry News and Trends
+
+musiclm - https://github.com/lucidrains/musiclm-pytorch
+
+https://www.kaggle.com/datasets/googleai/musiccaps/code
+
